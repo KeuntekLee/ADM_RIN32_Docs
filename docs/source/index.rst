@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Documentation for Adullam RIN32 Module
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
