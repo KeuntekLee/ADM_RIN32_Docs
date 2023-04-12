@@ -1,4 +1,4 @@
-API
+Function Codes
 ===
 
 .. autosummary::
