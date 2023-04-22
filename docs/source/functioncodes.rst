@@ -1,9 +1,9 @@
 Function Codes
 =====
 
-.. Read Coils (FC 01):
+.. _readcoils:
 
-Read Coils
+Read Coils (FC 01)
 ------------
 
 To use Lumache, first install it using pip:
