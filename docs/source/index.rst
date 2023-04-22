@@ -16,4 +16,4 @@ Contents
 .. toctree::
 
    usage
-   Function Codes
+   functioncodes
