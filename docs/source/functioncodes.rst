@@ -1,7 +1,4 @@
 Function Codes
 =====
 
-.. autosummary::
-   :toctree: generated
-
-   lumache
+.. _installation: Read Coils (FC 01)
