@@ -10,6 +10,8 @@ Input Area
 
 To use Lumache, first install it using pip:
 
+.. table:: test table
+   :align: center
 +------------+------------------+-----+-------------------+
 | Coil (Bit) | Holding Register | Bit | Process Data Area |
 +============+==================+=====+===================+
