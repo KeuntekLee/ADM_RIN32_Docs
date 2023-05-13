@@ -32,7 +32,7 @@ To use Lumache, first install it using pip:
 .. list-table:: Title
    :widths: 25 25 50
    :header-rows: 1
-   :column-alignment: left center right
+   
 
    * - Heading row 1, column 1
      - Heading row 1, column 2
