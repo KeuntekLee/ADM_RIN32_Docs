@@ -10,11 +10,13 @@ Input Area
 
 To use Lumache, first install it using pip:
 
-
+.. table:: Optional Caption
+    :column-alignment: center
+    
 +------------+------------------+-----+-------------------+
 | Coil (Bit) | Holding Register | Bit | Process Data Area |
 +============+==================+=====+===================+
-|    0000h   ||      0000h      |  0  |     0000-0001h    |
+|    0000h   |       0000h      |  0  |     0000-0001h    |
 +------------+                  +-----+                   |
 |    0001h   |                  |  1  |                   |
 +------------+                  +-----+                   |
