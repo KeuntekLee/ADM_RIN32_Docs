@@ -12,6 +12,7 @@ To use Lumache, first install it using pip:
 
 .. table:: Optional Caption
     :column-alignment: center center center center
+    
     +------------+------------------+-----+-------------------+
     | Coil (Bit) | Holding Register | Bit | Process Data Area |
     +============+==================+=====+===================+
