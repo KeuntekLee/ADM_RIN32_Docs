@@ -11,6 +11,7 @@ Input Area
 To use Lumache, first install it using pip:
 
 <div align="center">
+
 +------------+------------------+-----+-------------------+
 | Coil (Bit) | Holding Register | Bit | Process Data Area |
 +============+==================+=====+===================+
