@@ -5,10 +5,13 @@ Function Codes
 .. _readholdingregisters:
 .. _readdiscreteinputs:
 
+ADM RIN32 basically support all FC in ModBus framework with same behavior.
+
 Read Coils (FC 01)
 ------------
 
-To use Lumache, first install it using pip:
+FC 01 reads multiple coils (bits) from output area.
+
 
 Read Discrete Inputs (FC 02)
 ------------
