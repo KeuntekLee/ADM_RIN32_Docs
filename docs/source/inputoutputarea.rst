@@ -14,7 +14,7 @@ Bits (Coils) and Register in the input area can be described as below.
 
 
 +------------+------------------+-----+-------------------+
-| Coil (Bit) | Holding Register | Bit | Process Data Area |
+| Coil (Bit) |   Input Register | Bit | Process Data Area |
 +============+==================+=====+===================+
 |    0000h   |       0000h      | \ 0 |     0000-0001h    |
 +------------+                  +-----+                   |
